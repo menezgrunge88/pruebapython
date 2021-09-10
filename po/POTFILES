@@ -1,0 +1,7 @@
+data/com.my.pruebapython.desktop.in
+data/com.my.pruebapython.appdata.xml.in
+data/com.my.pruebapython.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
